@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @audhkhasi, PhD in Marine Geosciences from IPG, Paris.
-- 👀 I’m interested mostly in high-resolution imaging and tomography of seismic data applied to crustal/lithospheric scales.
-- 🌱 I’m currently learning machine learning tools and techniques so any feedback is most welcome.
-- 💞️ I’m looking to collaborate on anything from seismological to near-surface engineering related aplications using seismic data.
+- 👋 Hi, I’m @audhkhasi, currently working at Shell Bangalore on data science and geophysical imaging & inversion projects
+- 👀 I have a PhD in Marine Geosciences from IPG, Paris on low frequency seismic imaging and tomographic inversion
+- 🌱 I have also considerable experience in machine learning and am well versed to generative AI
 - 📫 How to reach me pranavaudhkhasi@gmail.com
 
 <!---
